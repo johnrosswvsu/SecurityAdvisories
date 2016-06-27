@@ -1,13 +1,19 @@
 {
-    "name": "roave/security-advisories",
+    "name": "johnrosswvsu/securityadvisories",
     "type": "metapackage",
     "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Marco Pivetta",
             "role": "maintainer",
             "email": "ocramius@gmail.com"
+        },
+        {
+            "name": "John Ross Castano",
+            "role": "contributor",
+            "email": "johnross@prometsource.com"
         }
     ],
     "conflict": {
